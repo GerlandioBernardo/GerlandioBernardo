@@ -15,8 +15,5 @@
 [![Git](https://img.shields.io/badge/Git-808080?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 
 ## GitHub Stats
-<div>
-<a href="https://github.com/GerlandioBernardo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerlandioBernardo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GerlandioBernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GerlandioBernardo&layout=compact&bg_color=C0C0C0&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GerlandioBernardo&theme=transparent&bg_color=C0C0C0&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
